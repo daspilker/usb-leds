@@ -1,0 +1,28 @@
+h1. USB LEDs
+
+"Eagle CAD":http://www.cadsoftusa.com/ design files for a USB status LED circuit.
+
+See http://www.daniel-spilker.com/blog/2012/11/17/usb-leds-for-media-center-pc/ for details.
+
+
+h2. Part List
+
+|_. Position |_. Description |_. Digi-Key Part Number |
+| CON1, CON2, CON3 | CONN HEADER .100 SINGL STR 36POS | S1011E-36-ND |
+| CON4 | CONN FEMALE 4POS .100" R/A GOLD | S5479-ND |
+| C1 | CAP TANT 4.7UF 6.3V 20% SMD | 511-1443-1-ND |
+| C2, C3 | CAP CERM .1UF 10% 50V X7R 0805 | 478-1395-1-ND |
+| FB1 | FERRITE 1.5A 40 OHM 0805 SMD | 240-2389-1-ND |
+| IC1 | IC USB FS SERIAL UART 28-SSOP | 768-1007-1-ND |
+| R1, R2, R3 | RES 680 OHM 1/8W 5% 0805 SMD | P680ACT-ND |
+| R4 | RES 10.0K OHM 1/8W 1% 0805 SMD | RHM10.0KCCT-ND |
+| R5, R6, R7 | TRIMMER 5K OHM 0.25W SMD | 3314J-502ECT-ND |
+
+
+h2. License
+
+Copyright (c) 2012, Daniel A. Spilker
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Germany License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/de/deed.en.
+
+http://daniel-spilker.com/
