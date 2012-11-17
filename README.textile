@@ -4,6 +4,10 @@ h1. USB LEDs
 
 See http://www.daniel-spilker.com/blog/2012/11/17/usb-leds-for-media-center-pc/ for details.
 
+!http://farm9.staticflickr.com/8349/8194494038_e4dec0a221.jpg!:http://www.flickr.com/photos/daspilker/8194494038/
+
+!http://farm9.staticflickr.com/8202/8194494648_b2b6148c69.jpg!:http://www.flickr.com/photos/daspilker/8194494648/
+
 
 h2. Part List
 
